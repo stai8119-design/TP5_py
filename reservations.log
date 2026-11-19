@@ -1,0 +1,12 @@
+[2026-11-19 21:18:18] [FILE_ATTENTE] Concert : Sara (6 places) ajoute en file d'attente.
+[2026-11-19 21:18:18] [ERREUR] Concert : Capacite depassee. Ajoute en file d'attente.
+[2026-11-19 21:18:18] [SUCCES] Concert : Reservation confirmee pour Youssef [CLI-1] (4 places).
+[2026-11-19 21:18:18] [ERREUR] Concert : Nom du client requis invalide.
+[2026-11-19 21:18:18] [FILE_ATTENTE] Concert : Nadia (2 places) ajoute en file d'attente.
+[2026-11-19 21:18:18] [ERREUR] Concert : Capacite depassee. Ajoute en file d'attente.
+[2026-11-19 21:18:51] [FILE_ATTENTE] Concert : Sara (6 places) ajoute en file d'attente.
+[2026-11-19 21:18:51] [ERREUR] Concert : Capacite depassee. Ajoute en file d'attente.
+[2026-11-19 21:18:51] [SUCCES] Concert : Reservation confirmee pour Youssef [CLI-1] (4 places).
+[2026-11-19 21:18:51] [ERREUR] Concert : Nom du client requis invalide.
+[2026-11-19 21:18:51] [FILE_ATTENTE] Concert : Nadia (2 places) ajoute en file d'attente.
+[2026-11-19 21:18:51] [ERREUR] Concert : Capacite depassee. Ajoute en file d'attente.

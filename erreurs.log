@@ -1,0 +1,11 @@
+[2026-11-19 21:09:45] Compte Kawtar : Impossible de deposer un montant qui est negatif ou nul.
+[2026-11-19 21:30:05] Fichier introuvable : C:\Users\Win10\AppData\Local\Temp\tmph01myyrb\introuvable.csv
+[2026-11-19 21:30:05] Ligne 1 invalide : 3 colonnes attendues, recu 2.
+[2026-11-19 21:30:05] Ligne 1 : le prix doit etre strictement positif (-10.0).
+[2026-11-19 21:30:05] Ligne 1 invalide : le prix 'abc' n'est pas numerique.
+[2026-11-19 21:30:29] Fichier introuvable : C:\Users\Win10\AppData\Local\Temp\tmp58ipjgal\introuvable.csv
+[2026-11-19 21:30:29] Ligne 1 invalide : 3 colonnes attendues, recu 2.
+[2026-11-19 21:30:29] Ligne 1 : le prix doit etre strictement positif (-10.0).
+[2026-11-19 21:30:29] Ligne 1 invalide : le prix 'abc' n'est pas numerique.
+[2026-11-19 21:31:29] Fichier introuvable : articles.csv
+[2026-11-19 21:35:04] Fichier introuvable : articles.csv
